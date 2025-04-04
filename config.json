@@ -1,0 +1,10 @@
+{
+    "replacement": {
+        "255,255,255": "<span>{SUB}</span>"
+    },
+    "gpt": {
+        "API_URL": "",
+        "API_KEY": "",
+        "Prompt": "For each info(s) below separated by --, summarize the point being made encapsulated within {{c1::x1}}, {{c2::x2}}, and so on.\n ```Information\n{SUBSTITUTE}"
+    }
+}		
