@@ -13,5 +13,8 @@
 1. There's a `config-backup.json` you can use incase you accidentally modified your `config.json`
 
 # Requirements
+coming soon
 
+# Changelog
+coming soon
 
